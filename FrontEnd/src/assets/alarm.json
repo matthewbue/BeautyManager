@@ -1,0 +1,113 @@
+[
+  {
+    "Dispositivo": "MKL2040",
+    "Variavel": "LYT0987",
+    "Inicio": "05/05/22 10:40:44",
+    "Fim": " ",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Ativo",
+    "Reconhecer": " "
+
+  },
+
+  {
+    "Dispositivo": "VDF5035",
+    "Variavel": "876GTF",
+    "Inicio": "06/08/23 11:30:34",
+    "Fim": "06/08/23 15:24:59",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Inativo",
+    "Reconhecer": " "
+
+  },
+
+  {
+    "Dispositivo": "PHF5463",
+    "Variavel": "KJL7865",
+    "Inicio": "06/08/23 12:25:38",
+    "Fim": "06/08/23 16:35:24",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Inativo",
+    "Reconhecer": "06/08/23 13:50:39"
+
+  },
+
+  {
+    "Dispositivo": "DSW2190",
+    "Variavel": "SQR7601",
+    "Inicio": "19/03/21 13:32:40",
+    "Fim": " ",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Ativo",
+    "Reconhecer": "19/03/21 16:34:22"
+
+  },
+
+  {
+    "Dispositivo": "VXN1090",
+    "Variavel": "MBV4352",
+    "Inicio": "09/12/22 09:12:34",
+    "Fim": "09/12/22 14:08:19",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Ativo",
+    "Reconhecer": " "
+
+  },
+
+  {
+    "Dispositivo": "ABC1234",
+    "Variavel": "CBA9012",
+    "Inicio": "03/04/19 12:10:15",
+    "Fim": " ",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Inativo",
+    "Reconhecer": "03/04/19 14:10:24"
+
+  },
+
+  {
+    "Dispositivo": "ZXC3214",
+    "Variavel": "BMW1839",
+    "Inicio": "10/07/21 16:40:32",
+    "Fim": " ",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Ativo",
+    "Reconhecer": " "
+
+  },
+
+  {
+    "Dispositivo": "ASK7788",
+    "Variavel": "QWE0987",
+    "Inicio": "17/09/20 13:23:30",
+    "Fim": "17/09/20 17:30:59",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Inativo",
+    "Reconhecer": "17/09/20 12:25:43"
+
+  },
+
+  {
+    "Dispositivo": "CVB0986",
+    "Variavel": "LKJ2345",
+    "Inicio": "15/03/22 09:20:28",
+    "Fim": "15/03/22 12:24:35",
+    "Descricao": "Tempratura muito alta",
+    "Status": "Inativo",
+    "Reconhecer": " "
+
+  },
+
+  {
+    "Dispositivo": "RTY9853",
+    "Variavel": "ITR4539",
+    "Inicio": "25/10/18 10:15:21",
+    "Fim": " ",
+    "Descricao": "Temperatura muito alta",
+    "Status": "Ativo",
+    "Reconhecer": "25/10/18 08:30:49"
+
+  }
+
+
+]
