@@ -34,7 +34,7 @@ const emailData = [
         title: 'Batz, Abbott and Jakubowski',
         // tslint:disable-next-line: max-line-length
         subject: 'Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.',
-        date: '12-Oct',
+        date: '12-Fev',
         category: "all",
     }, {
         id: 6,

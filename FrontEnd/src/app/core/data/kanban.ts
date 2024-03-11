@@ -2,7 +2,7 @@ const tasks = [
     {
         id: 1,
         title: 'Topnav layout design',
-        date: '14 Oct, 2019',
+        date: '14 Fev, 2024',
         task: 'Waiting',
         user: ['assets/images/users/avatar-4.jpg', 'assets/images/users/avatar-5.jpg'],
         budget: 145,
@@ -11,7 +11,7 @@ const tasks = [
     {
         id: 2,
         title: 'Create a New Landing UI',
-        date: '15 Oct, 2019',
+        date: '15 Fev, 2024',
         task: 'Approved',
         user: ['assets/images/users/avatar-6.jpg', 'assets/images/users/avatar-7.jpg'],
         budget: 112,
@@ -20,7 +20,7 @@ const tasks = [
     {
         id: 3,
         title: 'Create a Skote Logo',
-        date: '15 Oct, 2019',
+        date: '15 Fev, 2024',
         task: 'Waiting',
         user: ['assets/images/users/avatar-5.jpg'],
         budget: 86,
@@ -29,7 +29,7 @@ const tasks = [
     {
         id: 4,
         title: 'Brand logo design',
-        date: '12 Oct, 2019',
+        date: '12 Fev, 2024',
         task: 'Complete',
         user: ['assets/images/users/avatar-6.jpg'],
         budget: 132,
@@ -39,7 +39,7 @@ const tasks = [
     {
         id: 5,
         title: 'Create a Blog Template UI',
-        date: '13 Oct, 2019',
+        date: '13 Fev, 2024',
         task: 'Pending',
         user: ['assets/images/users/avatar-8.jpg', 'assets/images/users/avatar-1.jpg'],
         budget: 103,
@@ -48,7 +48,7 @@ const tasks = [
     {
         id: 6,
         title: 'Skote Dashboard UI',
-        date: '13 Oct, 2019',
+        date: '13 Fev, 2024',
         task: 'Complete',
         user: ['assets/images/users/avatar-2.jpg'],
         budget: 94,
@@ -57,7 +57,7 @@ const tasks = [
     {
         id: 7,
         title: 'Redesign - Landing page',
-        date: '10 Oct, 2019',
+        date: '10 Fev, 2024',
         task: 'Complete',
         user: ['assets/images/users/avatar-4.jpg'],
         budget: 145,
@@ -67,7 +67,7 @@ const tasks = [
     {
         id: 8,
         title: 'Multipurpose Landing',
-        date: '09 Oct, 2019',
+        date: '09 Fev, 2024',
         task: 'Complete',
         user: ['assets/images/users/avatar-6.jpg', 'assets/images/users/avatar-7.jpg'],
         budget: 92,
@@ -77,7 +77,7 @@ const tasks = [
     {
         id: 9,
         title: 'Skote landing Psd',
-        date: '15 Oct, 2019',
+        date: '15 Fev, 2024',
         task: 'Waiting',
         user: ['assets/images/users/avatar-5.jpg'],
         budget: 86,

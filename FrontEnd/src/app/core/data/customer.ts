@@ -7,7 +7,7 @@ const customersData = [
         address: '2470 Grove Street Bethpage, NY 11714',
         rating: '4.2',
         balance: '$5,412',
-        date: '07 Oct, 2019'
+        date: '07 Fev, 2024'
     },
     {
         id: 2,
@@ -17,7 +17,7 @@ const customersData = [
         address: '3755 Harron Drive Salisbury, MD 21875',
         rating: '4.0',
         balance: '$5,632',
-        date: '06 Oct, 2019'
+        date: '06 Fev, 2024'
     },
     {
         id: 3,
@@ -27,7 +27,7 @@ const customersData = [
         address: '3632 Snyder Avenue Bessemer City, NC 28016',
         rating: '4.4',
         balance: '$7,523',
-        date: '06 Oct, 2019'
+        date: '06 Fev, 2024'
     },
     {
         id: 4,
@@ -37,7 +37,7 @@ const customersData = [
         address: '4401 Findley Avenue Minot, ND 58701',
         rating: '4.1',
         balance: '$6,325',
-        date: '05 Oct, 2019'
+        date: '05 Fev, 2024'
     },
     {
         id: 5,
@@ -47,7 +47,7 @@ const customersData = [
         address: '3159 Holly Street Cleveland, GA 30528',
         rating: '3.8',
         balance: '$4,523',
-        date: '04 Oct, 2019'
+        date: '04 Fev, 2024'
     },
     {
         id: 6,
@@ -57,7 +57,7 @@ const customersData = [
         address: '4861 Delaware Avenue San Francisco, CA 94143',
         rating: '4.0',
         balance: '$5,412',
-        date: '03 Oct, 2019'
+        date: '03 Fev, 2024'
     },
     {
         id: 7,
@@ -67,7 +67,7 @@ const customersData = [
         address: '1207 Cottrill Lane Stlouis, MO 63101',
         rating: '4.2',
         balance: '$6,180',
-        date: '02 Oct, 2019'
+        date: '02 Fev, 2024'
     },
     {
         id: 8,
@@ -77,7 +77,7 @@ const customersData = [
         address: '3309 Horizon Circle Tacoma, WA 98423',
         rating: '4.1',
         balance: '$5,2870',
-        date: '02 Oct, 2019'
+        date: '02 Fev, 2024'
     },
     {
         id: 9,
@@ -87,7 +87,7 @@ const customersData = [
         address: '4861 Delaware Avenue San Francisco, CA 94143',
         rating: '4.0',
         balance: '$5,412',
-        date: '03 Oct, 2019'
+        date: '03 Fev, 2024'
     },
     {
         id: 10,
@@ -97,7 +97,7 @@ const customersData = [
         address: '1207 Cottrill Lane Stlouis, MO 63101',
         rating: '4.2',
         balance: '$6,180',
-        date: '02 Oct, 2019'
+        date: '02 Fev, 2024'
     },
     {
         id: 11,
@@ -107,7 +107,7 @@ const customersData = [
         address: '3309 Horizon Circle Tacoma, WA 98423',
         rating: '4.1',
         balance: '$5,2870',
-        date: '02 Oct, 2019'
+        date: '02 Fev, 2024'
     },
     {
         id: 12,
@@ -117,7 +117,7 @@ const customersData = [
         address: '3632 Snyder Avenue Bessemer City, NC 28016',
         rating: '4.4',
         balance: '$7,523',
-        date: '06 Oct, 2019'
+        date: '06 Fev, 2024'
     },
 ];
 
